@@ -25,6 +25,6 @@ export class LoginComponent implements OnInit  {
 
   async onSubmit() {
    //const cap = this.loginForm.value.email, this.loginForm.value.password;
-   this.router.navigate(['/reserva']);
+   this.router.navigate(['/inicio']);
   }
 }

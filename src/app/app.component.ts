@@ -8,7 +8,7 @@ import { FormGroup, FormControl, Validators, NgForm } from '@angular/forms';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit { 
-  title = 'DiloConGlobos';
+  title = 'PartyFull';
   
   constructor(
     //public autentica: FormGroup,
